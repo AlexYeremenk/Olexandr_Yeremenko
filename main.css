@@ -1,3 +1,8 @@
+*{
+	transition: all .2s;
+}
+
+
 body{
 	height: auto;
 	background: linear-gradient(to right, #b8b8b8,#fafafa);
@@ -6,10 +11,13 @@ body{
 	color: #342e2e;
 }
 
+
+
 .conteiner{
-	width: 100%;
+	width: 1190px;
 	margin: 0 auto;
 }
+
 /*ШАПКА*/
 header{
 	width:1190px;
@@ -30,6 +38,9 @@ header{
 	font-size: 30px;
 	margin-left: 220px;
 	line-height: 50px;
+}
+.icontel{
+	display: none;
 }
 h1{
 
@@ -63,10 +74,6 @@ h1{
  	border-radius: 80%;
 }
 
-.rightColumn .line{
-	margin-top: 110px;
-	margin-left: 50px;
-}
 
 /*Линия Раздлителя*/
 /*Левая колонка*/
@@ -88,7 +95,7 @@ h1{
 	margin-right: 20px;
 }
 .headname h3{
-	margin-top: 30px;
+	margin-top: 30px; 
 }
 .skill-name{
 margin: 0 auto;
@@ -97,7 +104,6 @@ width: 30%;
 font-size: 20px;
 padding-left: 5px;
 line-height: 10px;
-
 }
 .skill{
 float: right;
@@ -237,6 +243,11 @@ margin-top: 50px;
 	float: right;
 	width: 700px;
 }
+.rightColumn .line{
+	margin-top: 110px;
+	margin-left: 50px;
+}
+
 .education .date{
 	font-size: 20px;
 	display: block;
