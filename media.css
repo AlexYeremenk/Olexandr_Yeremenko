@@ -107,6 +107,7 @@ padding-left: 70px;
 }
 .hobby{
 margin-top: 240px;
+padding-left: 30px;
 
 }
 .hobby h2{
@@ -176,7 +177,7 @@ margin-top: 240px;
 	font-size: 20px;	
 	display: block;
 	float: right;
-	margin-right: 50px;
+	margin-right: 80px;
 }
 
 .experience{
@@ -193,7 +194,7 @@ margin-top: 240px;
 	font-size: 20px;	
 	display: block;
 	float: right;
-	margin-right: 40px;
+	margin-right: 70px;
 
 }
 .military{
@@ -210,7 +211,7 @@ margin-top: 240px;
 	font-size: 20px;	
 	display: block;
 	float: right;
-	margin-right: 65px;
+	margin-right: 95px;
 
 }
 .aboutMe{
