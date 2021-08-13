@@ -164,8 +164,8 @@ padding-left: 30px;
 }
 /*Правая колонка*/
 .rightColumn h2{
-	margin-left: 100px;
-		text-align: left;
+
+		text-align:center;
 }
 .education .date{
 	font-size: 20px;
@@ -215,22 +215,20 @@ padding-left: 30px;
 	margin-right: 95px;
 
 }
-.aboutMe h2{
-		margin-top: 40px;
-		margin-left: 100px;
-		text-align: left;
+.aboutMe {
+	display: none;
+
+
 }
 
-.aboutMe .date{
+
+.infomedia{
+	display: block;
 	font-size: 20px;
-	float: left;
-	padding-left: 50px;
 }
-.aboutMe .info{
-	width: 200px;
-	font-size: 20px;	
-	float: right;
-
+.infomedia p {
+	text-align: left;
+padding-left: 50px;
 }
 .rightColumn .line{
 	margin-top: 110px;
