@@ -225,14 +225,11 @@ padding-left: 30px;
 	font-size: 20px;
 	float: left;
 	padding-left: 50px;
-	border: 1px solid red;
 }
 .aboutMe .info{
 	width: 200px;
-	border: 1px solid red;
 	font-size: 20px;	
 	float: right;
-	margin-bottom: 50px;
 
 }
 .rightColumn .line{
@@ -248,7 +245,10 @@ display: inline-block;
  	margin-left: 110px;
 
 	}
-
+.foot{
+	margin-top: 900px;
+	height: 200px;
+	}
 
 }/*media*/
 
