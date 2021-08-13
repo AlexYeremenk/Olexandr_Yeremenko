@@ -1,7 +1,7 @@
 @media screen and (max-width: 1024px){
 	body{
 		height: auto;
-	background:#b4b4b4;
+	background:#b4b4b4 ;
 	font-family: 'Times New Roman', sans-serif;
 	font-weight: normal;
 	color: #342e2e;
@@ -225,8 +225,11 @@ padding-left: 30px;
 	font-size: 20px;
 	float: left;
 	padding-left: 50px;
+	border: 1px solid red;
 }
 .aboutMe .info{
+	width: 200px;
+	border: 1px solid red;
 	font-size: 20px;	
 	float: right;
 	margin-bottom: 50px;
